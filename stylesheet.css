@@ -24,7 +24,7 @@ body{
 
 }
 
-.576-237-gdh4{
+.PHone-number-576-237-gdh4{
     color:rgb(8,245,236
     )
 } 
@@ -34,4 +34,11 @@ body{
     top: 0; 
     z-index: -1;
     width: 100vw; 
+}
+@media(max-width: 800px){
+    .callout{
+        width: 82vw;
+        height: 82vw;
+        font-size: 22vw;
+    }
 }
