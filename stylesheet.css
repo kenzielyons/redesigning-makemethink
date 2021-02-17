@@ -10,7 +10,7 @@ body{
 .buy-our-food{
     font-size: 160px;
     font-family: italic;
-    text-align: left;
+    text-align: bottom;
     width: 82vh;
     text-overflow: ellipsis;
     overflow: hidden;
@@ -22,13 +22,18 @@ body{
 
 
 }
+header{
+    .we-hungry{
+        font-size: 60px;
+        text-align:left;
+    
+        color:rgb(236,8,245);
 
-.we-hungry{
-    font-size: 60px;
-
-    color:rgb(236,8,245)
-
-
+    
+    
+    
+    
+    }
 
 }
 
@@ -50,6 +55,13 @@ body{
     z-index: -1;
     width: 163.5px; 
     height: 116.48px;
+    align-content: center;
+}
+
+.footer{
+    background-color: white;
+    text-align:center;
+    padding:10px;
 }
 @media(max-width: 800px){
     .callout{
