@@ -12,9 +12,8 @@ body{
     font-family: italic;
     text-align: bottom;
     width: 82vh;
-    text-overflow: ellipsis;
-    overflow: hidden;
-    white-space: nowrap;
+    text
+   
 
     color: rgb(27,152,32)
    
@@ -22,12 +21,11 @@ body{
 
 
 }
-header{
-    .we-hungry{
+ .we-hungry{
         font-size: 60px;
         text-align:left;
-    
-        color:rgb(236,8,245);
+        color:rgb(336,8,245);
+
 
     
     
@@ -35,7 +33,7 @@ header{
     
     }
 
-}
+
 
 .PHone-number-576-237-gdh4{
     font-size:65;
@@ -51,8 +49,8 @@ header{
 
 .produce {
     position: absolute; 
-    top: 0; 
-    z-index: -1;
+    left:100px
+    top:20px;
     width: 163.5px; 
     height: 116.48px;
     align-content: center;
